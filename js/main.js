@@ -19,4 +19,4 @@ function counterAnimation(counterNum, start, end, duration) {
 
 counterAnimation(count1, 0, 86, 2000);
 counterAnimation(count2, 0, 289, 7500);
-counterAnimation(count3, 0, 135, 4000);
+counterAnimation(count3, 0, 135, 4500);
